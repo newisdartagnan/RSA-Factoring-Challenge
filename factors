@@ -2,4 +2,4 @@
 from func_ import *
 if __name__ == '__main__':
 
-    print(unix_time(print_factors))
+    print(print_factors())
